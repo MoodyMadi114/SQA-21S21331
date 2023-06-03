@@ -1,0 +1,22 @@
+String I (region name)
+array M (sales data)
+array F  (sales date)
+int O ( quantity)
+for sale in M :
+read date from F
+read sale  and date
+end for
+int total sales (in all regions)
+for sale in M :
+read sale
+switch (divide sales for each sales)
+case A: assign sales report to region O
+case B: assign sales report to region L
+case C: assign sales report to region A
+case D: assign sales report to region K
+end switch
+end for
+regional sales report = total sales report in each region + quantity
+select region 
+print sales report for selected region
+end
