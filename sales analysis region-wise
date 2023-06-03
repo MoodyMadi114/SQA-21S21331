@@ -1,3 +1,4 @@
+#This code is about sales analysis region-wide
 String I (region name)
 array M (sales data)
 array F  (sales date)
